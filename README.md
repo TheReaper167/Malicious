@@ -1,4 +1,7 @@
-# Malicious
+# Malicious 
+![](https://img.shields.io/badge/Python-2.7/2.6-yellowgreen.svg)
+
+
 ![alt text](https://github.com/Hider5/Malicious/blob/master/image/ss.jpg)
 
 ## Termux
@@ -8,6 +11,8 @@ $cd /sdcard
 $git clone https://github.com/Hider5/Malicious
 $cd Malicious
 $pkg install python2
+$pkg install ruby
+$gem install lolcat
 $pip2 install -r requirements.txt
 $python2 malicious.py
 ```
@@ -21,7 +26,8 @@ $python2 malicious.py
 $cd /Desktop
 $git clone https://github.com/Hider5/Malicious
 $cd Malicious
-$apt-get install python2
+$apt-get install python2 ruby
+$gem install lolcat
 $pip2 install -r requirements.txt
 $python2 malicious.py
 ```
