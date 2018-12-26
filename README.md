@@ -1,6 +1,6 @@
 # Malicious 
 ![](https://img.shields.io/badge/Python-2.7/2.6-yellowgreen.svg)
-
+![](https://img.shields.io/badge/version-1.1-brightgreen.svg)
 
 ![alt text](https://github.com/Hider5/Malicious/blob/master/image/ss.jpg)
 
