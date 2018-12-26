@@ -1,19 +1,12 @@
 # Malicious
 
-```python2.7
-
+```python
 $termux-setup-storage
-
 $cd /sdcard
-
 $git clone https://github.com/Hider5/Malicious
-
 $cd Malicious
-
 $apt-get install python2
-
 $pip2 install -r requirements.txt
-
 $python2 malicious.py
 ```
 
