@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/Python-2.7/2.6-yellowgreen.svg)
 ![](https://img.shields.io/badge/version-1.1-brightgreen.svg)
 ## Requirements pip2 and gem
-![](https://img.shields.io/badge/requirements-requests%20&%20tqdm-brightgreen.svg)
-![](https://img.shields.io/badge/Dependencies-lolcat-blue.svg)
+![](https://img.shields.io/badge/pip2-requests%20&%20tqdm-brightgreen.svg)
+![](https://img.shields.io/badge/gem-lolcat-blue.svg)
 
 
 ![alt text](https://github.com/Hider5/Malicious/blob/master/image/ss.jpg)
