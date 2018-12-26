@@ -1,5 +1,6 @@
 # Malicious
 
+'''Python 2.7
 $termux-setup-storage
 
 $cd /sdcard
@@ -13,6 +14,8 @@ $apt-get install python2
 $pip2 install -r requirements.txt
 
 $python2 malicious.py
+
+'''
 
 after download virus open your file explorer
 
