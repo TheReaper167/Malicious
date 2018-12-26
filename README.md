@@ -1,6 +1,6 @@
 # Malicious
 
-```python
+```
 $termux-setup-storage
 $cd /sdcard
 $git clone https://github.com/Hider5/Malicious
