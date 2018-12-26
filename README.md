@@ -1,7 +1,7 @@
 # Malicious
 ![alt text](https://github.com/Hider5/Malicious/blob/master/image/ss.jpg)
 
-##Termux
+## Termux
 ```
 $termux-setup-storage
 $cd /sdcard
@@ -11,7 +11,7 @@ $pkg install python2
 $pip2 install -r requirements.txt
 $python2 malicious.py
 ```
-##Linux
+## Linux
 ```
 $cd /Desktop
 $git clone https://github.com/Hider5/Malicious
