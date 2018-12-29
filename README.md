@@ -8,7 +8,7 @@
 
 ![alt text](https://github.com/Hider5/Malicious/blob/master/image/ss.jpg)
 
-### Termux Installation
+### Installation Termux
 ```
 $termux-setup-storage
 $cd /sdcard
@@ -26,7 +26,7 @@ $python2 malicious.py
 *find folder Malicious and open it*
 
 *chose and open folder Android if you download virus Android*
-### Linux Installation
+### Installation Linux
 ```
 $apt-get install git
 $apt-get install python2 ruby
